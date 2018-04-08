@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/homes/l/likenne2/ece532/HDMI_Final/videodemo_bsp"/>
+		<item value="/nfs/ug/homes-5/l/likenne2/ece532/HDMI_Final/videodemo"/>
+		<item value="C:\Users\likenne2\HDMI\HDMI\HDMI.sdk"/>
+		<item value="C:\Users\likenne2\HDMI\videodemo_bsp"/>
+		<item value="C:\Users\likenne2\HDMI\videodemo"/>
+		<item value="C:\Users\likenne2\HDMI"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/nfs/ug/homes-5/l/likenne2/ece532/Nexys-Video-HDMI/sdk"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,43 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:10 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Mon Mar 19 11:36:09 2018
+# Process ID: 10988
+# Current directory: /nfs/ug/homes-5/l/likenne2/ece532/Nexys-Video-HDMI/proj
+# Command line: vivado -mode tcl
+# Log file: /nfs/ug/homes-5/l/likenne2/ece532/Nexys-Video-HDMI/proj/vivado.log
+# Journal file: /nfs/ug/homes-5/l/likenne2/ece532/Nexys-Video-HDMI/proj/vivado.jou
+#-----------------------------------------------------------
+open_project HDMI.xpr 
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository '/nfs/ug/homes-5/l/likenne2/ece532/Nexys-Video-HDMI/repo'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/cad1/Xilinx/Vivado/2017.2/data/ip'.
+open_project: Time (s): cpu = 00:00:05 ; elapsed = 00:00:11 . Memory (MB): peak = 1203.113 ; gain = 124.359 ; free physical = 5255 ; free virtual = 34654
+HDMI
+archive_project
+INFO: [Coretcl 2-137] starting archive...
+INFO: [Coretcl 2-1499] Saving project copy to temporary location './.Xil/Vivado-10988-ug210' for archiving project
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository '/nfs/ug/homes-5/l/likenne2/ece532/Nexys-Video-HDMI/repo'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/cad1/Xilinx/Vivado/2017.2/data/ip'.
+INFO: [Coretcl 2-1211] Creating project copy for archival...
+WARNING: [IP_Flow 19-3899] Cannot get the environment domain name variable for the component vendor name. Setting the vendor name to 'user.org'.
+WARNING: [IP_Flow 19-3899] Cannot get the environment domain name variable for the component vendor name. Setting the vendor name to 'user.org'.
+INFO: [IP_Flow 19-4753] Inferred signal 'reset' from port 'reset' as interface 'reset'.
+INFO: [IP_Flow 19-4753] Inferred signal 'clock' from port 'clock' as interface 'clock'.
+INFO: [IP_Flow 19-4728] Bus Interface 'clock': Added interface parameter 'ASSOCIATED_RESET' with value 'reset'.
+WARNING: [IP_Flow 19-3153] Bus Interface 'clock': ASSOCIATED_BUSIF bus parameter is missing.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository '/nfs/ug/homes-5/l/likenne2/ece532/Nexys-Video-HDMI/repo'.
+INFO: [Coretcl 2-1213] Including run results for 'synth_1'
+INFO: [Coretcl 2-1213] Including run results for 'impl_1'
+INFO: [Coretcl 2-1212] Importing remotely added design sources and verilog include files (if any)...
+INFO: [filemgmt 20-348] Importing the appropriate files for fileset: 'constrs_1'
+INFO: [filemgmt 20-334] All file(s) are already imported in fileset: 'sim_1'
+INFO: [filemgmt 20-348] Importing the appropriate files for fileset: 'sim_1'
+INFO: [filemgmt 20-348] Importing the appropriate files for fileset: 'sources_1'

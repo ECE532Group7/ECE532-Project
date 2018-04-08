@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Project Version="1" Minor="3" DIGEST="">
+	<TOOL_VERSION Version="2017.2"/>
+	<MODE Name="Post-Synthesis"/>
+	<SYSTEMINFO BOARD="digilentinc.com:nexys_video:1.1" PART="xc7a200tsbg484-1" ARCH="artix7" PACKAGE="sbg484" DEVICE="7a200t" SPEED="-1" LUT="134600" FF="269200" BRAM="365" DSP="740"/>
+	<HIERARCHY Name="hdmi_wrapper"/>
+	<File Type="HW_HANDOFF" Name="hdmi.hwh" DESIGN_HIERARCHY="hdmi_i" BD_TYPE="DEFAULT_BD"/>
+	<File Type="BD_TCL" Name="hdmi_bd.tcl"/>
+	<File Type="HW_HANDOFF" Name="hdmi_system_ila_0_0.hwh" DESIGN_HIERARCHY="hdmi_i/system_ila_0/inst" BD_TYPE="SCOPED_BD"/>
+	<File Type="BD_TCL" Name="hdmi_system_ila_0_0_bd.tcl"/>
+	<File Type="BIT" Name="hdmi_wrapper.bit"/>
+	<File Type="MMI" Name="hdmi_wrapper.mmi"/>
+	<USEDRESOURCES LUT="0" FF="35908" BRAM="46" DSP="9"/>
+</Project>
+
