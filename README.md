@@ -27,13 +27,13 @@ RaspberryPi Folder
     
 Test Modules Folder
   - Miscellaneous software and hardware tests for varying hardware configurations
-    - button_debouncer.v
-    - frame_buffer_trigger.v
-    - frame_buffer_trigger_tb.v
-    - green_locator_trigger.v
-    - green_locator_trigger_tb.v
-    - interrupt_test.v
-    - interrupt_test_tb.v
+  - button_debouncer.v
+  - frame_buffer_trigger.v
+  - frame_buffer_trigger_tb.v
+  - green_locator_trigger.v
+  - green_locator_trigger_tb.v
+  - interrupt_test.v
+  - interrupt_test_tb.v
   
 project_build Folder
   - This folder contains the comprehensive set of files needed to build the project in Vivado
